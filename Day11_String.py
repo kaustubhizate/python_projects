@@ -1,6 +1,6 @@
 # String.
 
-s = " Kaustubh";
+s = " Kaustubh";vcg
 print(s)
 
 b = "Hello";
